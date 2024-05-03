@@ -17,3 +17,10 @@ This format offer the Data Space Community a place for exchange between projects
 - 16.-17.05. Tractus-X Community Days, Stuttgart
 - 22.-23.05. CloudExpo, Frankfurt
 - 23.-24.05. Tech-X, Luxembourg
+
+### Past Meetings & Interesting Reads
+
+- 02.05.24 Implementation Forum "Data Sovereignty & Trust"
+- 22.04.24 CoE-DSC Community Meeting of April: Identity Management: https://coe-dsc.nl/events-webinars/coe-dsc-community-meeting-of-april-identity-management/
+- 18.04.24 Implementation Forum "Identity & Attestation Management"
+
