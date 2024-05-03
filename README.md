@@ -1,5 +1,11 @@
 ## Implementation Forum "Data Sovereignty & Trust"
 
+### Agenda for next meeting, Thursday 16.05.2024 - 12:00 - 13:00
+- Welcoming new participants
+- Additional Agenda items?
+- Continuing Discussion on Consent Management Use Cases and workflows of the Gaia-X projects to cloud PCM/OCM functions and protocols
+- AOB
+
 ### General Information
 
 This is the repository for the Data Space Implementation Forum "Data Sovereignty & Trust".
