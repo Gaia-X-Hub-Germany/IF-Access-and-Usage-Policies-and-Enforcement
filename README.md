@@ -2,9 +2,9 @@
 
 ### General Information
 
-This is the repository for the Data Space Implementation Forum "Data Sovereignty & Trust", dealing with the DSSC Building Blocks [Identity & Attestation Management](https://dssc.eu/space/BVE/357075352/Identity+and+Attestation+Management), [Trust Framework] & [Access & Usage Policies Enforcement]
+This is the repository for the Data Space Implementation Forum "Data Sovereignty & Trust", dealing with the DSSC Building Blocks [Identity & Attestation Management](https://dssc.eu/space/BVE/357075352/Identity+and+Attestation+Management), [Trust Framework](https://dssc.eu/space/BVE/357075461/Trust+Framework) & [Access & Usage Policies Enforcement](https://dssc.eu/space/BVE/357075567/Access+%26+Usage+Policies+Enforcement)
 
-We are currently meeting biweekly on Thursdays 12.00-13.00. To register for the community please use the following link: https://forms.gle/CUDio2n6nGhgM94X6 
+We are currently meeting biweekly on Thursdays 12.00-13.00. To register for the community [please click this link] (https://forms.gle/CUDio2n6nGhgM94X6)
 
 ### Agenda for next meeting, Thursday 16.05.2024 - 12:00 - 13:00
 - Welcoming new participants
