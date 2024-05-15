@@ -6,6 +6,14 @@ This is the repository for the Data Space Implementation Forum "Data Sovereignty
 
 We are currently meeting biweekly on Thursdays 12.00-13.00. To register for the community [please click this link](https://forms.gle/CUDio2n6nGhgM94X6). Reminders and invitations for new participants will be sent 1-2 days before the meetings. You can propose agenda items by committing changes to the agenda below.
 
+We're also happy about contributions from data space projects, please contact [Gaia-X Hub Germany](mailto:gaia-x-begleitforschung@acatech.de) in advance to schedule an input. Contributions could be in the following form, but any othe interesting input regarding our IF topics are of course also welcome:
+  - What is the context of the project? What is the main challenge regarding Identity Management, Trust or Access Policies?
+  - What requirements are/have been necessary to implement a succesful solution for the challenge posted above?
+  - How did you come up with a solution? Where did you look for it and who did you ask to help you?
+  - Did the solution satisfy your requirements? What could have been better, and which features are helpful/missing?
+  - What other alternatives have you looked at?
+  - What are your next steps now? How will you scale up on the built-up knowledge?
+
 [Please also join our Matrix channel](https://matrix.to/#/!PBADeZgSbpHlBoyEjE:matrix.org?via=matrix.org).
 
 ### Agenda for next meeting, Thursday 16.05.2024 - 12:00 - 13:00
