@@ -13,6 +13,7 @@ We are currently meeting biweekly on Thursdays 12.00-13.00. To register for the 
 - Additional Agenda items?
 - Continuing Discussion on Consent Management Use Cases and workflows of the Gaia-X projects to cloud PCM/OCM functions and protocols
 - AOB
+- Event Updates
 
 ### What is an Implementation Forum?
 This format offer the Data Space Community a place for exchange between projects regarding the [“building blocks” proposed by the DSSC](https://dssc.eu/space/BVE/357073899/Building+Block+Overview). In these meetings our target is to provide a structure to discuss and tackle common issues, progress and questions for the corresponding building block(s). Here, we will focus on topics surrounding implementation for Data Spaces and projects, not on theoretical concepts as do the DSSC expert groups or Gaia-X WGs.
