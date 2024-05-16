@@ -18,6 +18,7 @@ We're also happy about contributions from data space projects, please contact [G
 
 ### Agenda for next meeting, Thursday 16.05.2024 - 12:00 - 13:00
 - Welcoming new participants
+- Organizational Updates (GitHub Repository & Matrix Channel)
 - Additional Agenda items?
 - Continuing Discussion on [Consent Management Use Cases and workflows of the Gaia-X projects to cloud PCM/OCM functions and protocols](https://github.com/gaia-x-hub-germany/if-data-sovereignty-and-trust/blob/main/ConsentManagement.md). @JeromeEstienne will introduce to this topic for anybody who has not been involved yet.
 - AOB
