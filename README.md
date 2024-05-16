@@ -30,7 +30,7 @@ This format offer the Data Space Community a place for exchange between projects
 
 ### Upcoming Events
 
-- Weekly: OSS Community Call, Thursdays 09.00-09.45
+- Weekly: OSS Community Call, Thursdays 09.00-09.45. [Register here](https://list.gaia-x.eu/postorius/lists/)
 - 16.-17.05. Tractus-X Community Days, Stuttgart
 - 22.-23.05. CloudExpo, Frankfurt
 - 23.-24.05. Tech-X, Luxembourg
