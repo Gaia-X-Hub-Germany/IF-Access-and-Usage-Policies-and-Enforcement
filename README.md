@@ -33,12 +33,12 @@ This format offer the Data Space Community a place for exchange between projects
 ### Upcoming Events
 
 - Weekly: OSS Community Call, Thursdays 09.00-09.45. [Register here](https://list.gaia-x.eu/postorius/lists/)
-- 22.-23.05. CloudExpo, Frankfurt
-- 23.-24.05. [Tech-X, Luxembourg](https://gaia-x.eu/tech-x-2024/)
 - 12.06. [XFSC Tech Workshop #7](https://www.gxfs.eu/xfsc-tech-workshop-7/)
 
 ### Past Meetings & Interesting Reads
 
+- 23.-24.05. [Tech-X, Luxembourg](https://gaia-x.eu/tech-x-2024/)
+- 22.-23.05. CloudExpo, Frankfurt
 - 02.05.24 Implementation Forum "Data Sovereignty & Trust"
 - 22.04.24 CoE-DSC Community Meeting of April: Identity Management: https://coe-dsc.nl/events-webinars/coe-dsc-community-meeting-of-april-identity-management/
 - 18.04.24 Implementation Forum "Identity & Attestation Management"
