@@ -16,9 +16,10 @@ This meeting depends on contributions from data space projects (i.e. YOU). Pleas
 
 
 
-### Agenda for next meeting, Thursday 30.05.2024 - 12:00 - 13:00
+### Agenda for next meeting, Thursday 13.06.2024 - 12:00 - 13:00
 - Welcoming new participants
 - Additional Agenda items?
+- Update on XFSC Tech Workshop #7
 - Continuing Discussion on [Consent Management Use Cases and workflows of the Gaia-X projects to cloud PCM/OCM functions and protocols](https://github.com/gaia-x-hub-germany/if-data-sovereignty-and-trust/blob/main/ConsentManagement.md).
 - Input and Discussion on eIDAS by Detlef Hühnlein
 - AOB
