@@ -33,7 +33,7 @@ This format offers the Data Space Community a place for exchange between project
 ### Upcoming Events
 
 - Weekly: OSS Community Call, Thursdays 09.00-09.45. [Register here](https://list.gaia-x.eu/postorius/lists/)
-- 12.06. [XFSC Tech Workshop #7](https://www.gxfs.eu/xfsc-tech-workshop-7/)
+- 12.06. [XFSC Tech Workshop #7](https://www.gxfs.eu/xfsc-tech-workshop-7/), please checkout the agenda [here](https://www.linkedin.com/posts/andreas-weiss-eco_xfsc-gxfs-federation-activity-7206186361408663552-nQz9?utm_source=share&utm_medium=member_desktop)
 
 ### Past Meetings & Interesting Reads
 
