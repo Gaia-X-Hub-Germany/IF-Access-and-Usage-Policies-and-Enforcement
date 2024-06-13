@@ -22,6 +22,8 @@ This meeting depends on contributions from data space projects (i.e. YOU). Pleas
 - Update on XFSC Tech Workshop #7: [Link to GitHub Repository](https://gitlab.eclipse.org/eclipse/xfsc/workshop/xfsc-tech-workshop-7)
 - Continuing Discussion on [Consent Management Use Cases and workflows of the Gaia-X projects to cloud PCM/OCM functions and protocols](https://github.com/gaia-x-hub-germany/if-data-sovereignty-and-trust/blob/main/ConsentManagement.md).
 - [Input and Discussion on eIDAS by Detlef Hühnlein](https://www.linkedin.com/posts/dr-detlef-h%C3%BChnlein-12476439_call-for-eudi-activity-7206523770881069056-TwIC?utm_source=share&utm_medium=member_desktop)
+    - [Website](https://www.eid.as/)
+    - [Testbed](https://github.com/goeIDAS/testbed)
 - AOB
 - Event Updates
 
