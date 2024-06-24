@@ -22,6 +22,10 @@ This meeting depends on contributions from data space projects (i.e. YOU). Pleas
 - AOB
 - Event Updates
 
+### Interesting Reads
+- [Access & Usage Policies and Enforcement Building Block](https://dssc.eu/space/BVE/357075567/Access+%26+Usage+Policies+Enforcement) by DSSC
+- [Data Usage Control] (https://link.springer.com/chapter/10.1007/978-3-030-93975-5_8) chapter by Christian Jung & Jörg Dörr in "Designing Data Spaces", 2022, Boris Otto, Michael ten Hompel, Stefan Wrobel
+
 ### What is an Implementation Forum?
 This format offers the Data Space Community a place for exchange between projects regarding the [“building blocks” proposed by the DSSC](https://dssc.eu/space/BVE/357073899/Building+Block+Overview). In these meetings our target is to provide a structure to discuss and tackle common issues, progress and questions for the corresponding building block(s). Here, we will focus on topics surrounding implementation for Data Spaces and projects, not on theoretical concepts as do the DSSC expert groups or Gaia-X WGs. To register for the community [please click this link](https://forms.gle/CUDio2n6nGhgM94X6).
 
@@ -32,7 +36,7 @@ This format offers the Data Space Community a place for exchange between project
 - Weekly: OSS Community Call, Thursdays 09.00-09.45. [Register here](https://list.gaia-x.eu/postorius/lists/)
 - Monthly: IF "Identity & Attestation Management". [Register here and select the building block](https://forms.gle/XzizreXJpsr9qaFbA)
 
-### Past Meetings & Interesting Reads
+### Past Meetings
 
 - 12.06. [XFSC Tech Workshop #7](https://www.gxfs.eu/xfsc-tech-workshop-7/), please checkout the agenda [here](https://www.linkedin.com/posts/andreas-weiss-eco_xfsc-gxfs-federation-activity-7206186361408663552-nQz9?utm_source=share&utm_medium=member_desktop)
 - 23.-24.05. [Tech-X, Luxembourg](https://gaia-x.eu/tech-x-2024/)
