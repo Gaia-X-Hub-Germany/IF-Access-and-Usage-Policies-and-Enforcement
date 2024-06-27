@@ -17,10 +17,15 @@ This meeting depends on contributions from data space projects (i.e. YOU). Pleas
 ### Agenda for next meeting, Thursday 27.06.2024 - 12:00 - 13:00
 - Welcoming new participants
 - Organizational Update: Splitting up in IF "Identity & Attestation Management" and IF  "Access & Usage Policies and Enforcement"
+- Interesting Reads & Current Projects
+- Call for Contribution
 - Additional Agenda items?
 - Continuing Discussion on Consent Management Use Cases and workflows of the Gaia-X projects to cloud PCM/OCM functions and protocols
 - AOB
 - Event Updates
+
+### Current Projects
+- [Best/First Practice Implementation Story by MERLOT](https://data-space-wiki.notion.site/Digitale-Identit-ten-in-Datenr-umen-a0c9a6a2cf4b4851be4dd6909646d9a2?pvs=4)
 
 ### Interesting Reads
 - [Access & Usage Policies and Enforcement Building Block](https://dssc.eu/space/BVE/357075567/Access+%26+Usage+Policies+Enforcement) by DSSC
@@ -30,7 +35,6 @@ This meeting depends on contributions from data space projects (i.e. YOU). Pleas
 This format offers the Data Space Community a place for exchange between projects regarding the [“building blocks” proposed by the DSSC](https://dssc.eu/space/BVE/357073899/Building+Block+Overview). In these meetings our target is to provide a structure to discuss and tackle common issues, progress and questions for the corresponding building block(s). Here, we will focus on topics surrounding implementation for Data Spaces and projects, not on theoretical concepts as do the DSSC expert groups or Gaia-X WGs. To register for the community [please click this link](https://forms.gle/CUDio2n6nGhgM94X6).
 
 ![image](https://github.com/gaia-x-hub-germany/if-data-sovereignty-and-trust/assets/63009802/292dfb4e-998e-4854-9c9e-a48d63b9cbcf)
-
 
 ### Upcoming Events
 - Weekly: OSS Community Call, Thursdays 09.00-09.45. [Register here](https://list.gaia-x.eu/postorius/lists/)
