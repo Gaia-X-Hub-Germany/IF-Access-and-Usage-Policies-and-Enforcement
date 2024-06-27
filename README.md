@@ -21,6 +21,11 @@ This meeting depends on contributions from data space projects (i.e. YOU). Pleas
 - Call for Contribution
 - Additional Agenda items?
 - Continuing Discussion on Consent Management Use Cases and workflows of the Gaia-X projects to cloud PCM/OCM functions and protocols
+  - MERLOT now follows the ISO specs, not planned from the beginning
+  - oID for VCI or VP
+  - IDSA domain specification: separate Consent Management & Access Control
+  - cloud pcm is only a toolbox, some of the tools can be used for consent manager plugin
+  - get aligned on a consent manager feature
 - AOB
 - Event Updates
 
