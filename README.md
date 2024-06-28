@@ -4,7 +4,7 @@
 
 This is the repository for the Data Space Implementation Forum  "Access & Usage Policies and Enforcement", dealing with the corresponding [DSSC Building Block](https://dssc.eu/space/BVE/357075567/Access+%26+Usage+Policies+Enforcement).
 
-We are currently meeting biweekly on Thursdays 12.00-13.00. Reminders and invitations for new participants will be sent 1-2 days before the meetings. To receive invitations, [please register via this link](https://forms.gle/CUDio2n6nGhgM94X6) and select the building block. You can propose agenda items by committing changes to the agenda below. [Please also join our Matrix channel](https://matrix.to/#/!PBADeZgSbpHlBoyEjE:matrix.org?via=matrix.org).
+We are currently meeting every four weeks on Thursdays 12.00-13.00. Reminders and invitations for new participants will be sent 1-2 days before the meetings. To receive invitations, [please register via this link](https://forms.gle/CUDio2n6nGhgM94X6) and select the building block. You can propose agenda items by committing changes to the agenda below. [Please also join our Matrix channel](https://matrix.to/#/!PBADeZgSbpHlBoyEjE:matrix.org?via=matrix.org).
 
 This meeting depends on contributions from data space projects (i.e. YOU). Please contact [Gaia-X Hub Germany](mailto:gaia-x-begleitforschung@acatech.de) in advance to schedule an input. Contributions may be in the following form, but any othe interesting input regarding our IF topics are of course also welcome:
   - What is the context of the project? What is the main challenge regarding  "Access & Usage Policies and Enforcement"?
