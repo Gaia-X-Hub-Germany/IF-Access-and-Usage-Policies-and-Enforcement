@@ -14,18 +14,11 @@ This meeting depends on contributions from data space projects (i.e. YOU). Pleas
   - What other alternatives have you looked at?
   - What are your next steps now? How will you scale up on the built-up knowledge?
 
-### Agenda for next meeting, Thursday 27.06.2024 - 12:00 - 13:00
+### Agenda for next meeting, Thursday 25.07.2024 - 12:00 - 13:00
 - Welcoming new participants
-- Organizational Update: Splitting up in IF "Identity & Attestation Management" and IF  "Access & Usage Policies and Enforcement"
-- Interesting Reads & Current Projects
-- Call for Contribution
+- Call for Contributions
 - Additional Agenda items?
 - Continuing Discussion on Consent Management Use Cases and workflows of the Gaia-X projects to cloud PCM/OCM functions and protocols
-  - MERLOT now follows the ISO specs, not planned from the beginning
-  - oID for VCI or VP
-  - IDSA domain specification: separate Consent Management & Access Control
-  - cloud pcm is only a toolbox, some of the tools can be used for consent manager plugin
-  - get aligned on a consent manager feature
 - AOB
 - Event Updates
 
