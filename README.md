@@ -28,6 +28,7 @@ This meeting depends on contributions from data space projects (i.e. YOU). Pleas
 ### Interesting Reads
 - [Access & Usage Policies and Enforcement Building Block](https://dssc.eu/space/BVE/357075567/Access+%26+Usage+Policies+Enforcement) by DSSC
 - [Data Usage Control](https://link.springer.com/chapter/10.1007/978-3-030-93975-5_8) chapter by Christian Jung & Jörg Dörr in "Designing Data Spaces", 2022, Boris Otto, Michael ten Hompel, Stefan Wrobel
+- [ODRL Policies](https://www.w3.org/TR/odrl-model/)
 
 ### What is an Implementation Forum?
 This format offers the Data Space Community a place for exchange between projects regarding the [“building blocks” proposed by the DSSC](https://dssc.eu/space/BVE/357073899/Building+Block+Overview). In these meetings our target is to provide a structure to discuss and tackle common issues, progress and questions for the corresponding building block(s). Here, we will focus on topics surrounding implementation for Data Spaces and projects, not on theoretical concepts as do the DSSC expert groups or Gaia-X WGs. To register for the community [please click this link](https://forms.gle/CUDio2n6nGhgM94X6).
