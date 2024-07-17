@@ -22,10 +22,11 @@ This meeting depends on contributions from data space projects (i.e. YOU). Pleas
 - AOB
 - Event Updates
 
-### Current Projects
+### Reference Implementations
 - [Best/First Practice Implementation Story by MERLOT](https://data-space-wiki.notion.site/Digitale-Identit-ten-in-Datenr-umen-a0c9a6a2cf4b4851be4dd6909646d9a2?pvs=4)
+- [PCM/OCM Implementation by MERLOT Project (Video in German)](https://www.youtube.com/watch?v=RX_pQPmdAMc)
 
-### Interesting Reads
+### Related Literature
 - [Access & Usage Policies and Enforcement Building Block](https://dssc.eu/space/BVE/357075567/Access+%26+Usage+Policies+Enforcement) by DSSC
 - [Data Usage Control](https://link.springer.com/chapter/10.1007/978-3-030-93975-5_8) chapter by Christian Jung & Jörg Dörr in "Designing Data Spaces", 2022, Boris Otto, Michael ten Hompel, Stefan Wrobel
 - [ODRL Policies](https://www.w3.org/TR/odrl-model/)
