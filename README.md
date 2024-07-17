@@ -34,7 +34,7 @@ This meeting depends on contributions from data space projects (i.e. YOU). Pleas
 ### What is an Implementation Forum?
 This format offers the Data Space Community a place for exchange between projects regarding the [“building blocks” proposed by the DSSC](https://dssc.eu/space/BVE/357073899/Building+Block+Overview). In these meetings our target is to provide a structure to discuss and tackle common issues, progress and questions for the corresponding building block(s). Here, we will focus on topics surrounding implementation for Data Spaces and projects, not on theoretical concepts as do the DSSC expert groups or Gaia-X WGs. To register for the community [please click this link](https://forms.gle/CUDio2n6nGhgM94X6).
 
-![image](https://github.com/gaia-x-hub-germany/if-data-sovereignty-and-trust/assets/63009802/292dfb4e-998e-4854-9c9e-a48d63b9cbcf)
+![image](https://github.com/user-attachments/assets/5a48ad1a-bd20-4375-98a1-57bcd639ca03)
 
 ### Upcoming Events
 - Weekly: OSS Community Call, Thursdays 09.00-09.45. [Register here](https://list.gaia-x.eu/postorius/lists/)
